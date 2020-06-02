@@ -39,7 +39,7 @@
 	var/obj/item/l_store = null
 	var/obj/item/s_store = null
 
-	var/hygiene = HYGIENE_LEVEL_NORMAL
+	//var/hygiene = HYGIENE_LEVEL_NORMAL
 
 	var/special_voice = "" // For changing our voice. Used by a symptom.
 
